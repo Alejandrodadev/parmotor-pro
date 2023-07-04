@@ -3,7 +3,7 @@
 @section('title', 'articles')
 
 @section('content')
-  @if (session('success') )
+  @if (session('success'))
     <div class="alert alert-danger">{{ session('success') }}</div>
   @endif
   <h4 class="fw-bold py-3 mb-4">Articles</h4>
