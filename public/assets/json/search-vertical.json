@@ -1,0 +1,77 @@
+{
+  "pages": [
+    {
+      "name": "Home",
+      "icon": "ti-smart-home",
+      "url": "/",
+      "role": [
+        "admin",
+        "writer",
+        "client"
+      ]
+    },
+    {
+      "name": "Comparator",
+      "icon": "ti-layout-sidebar",
+      "url": "comparator",
+      "role": [
+        "admin",
+        "writer",
+        "client"
+      ]
+    },
+    {
+      "name": "New Motorcycle",
+      "icon": "ti-layout-sidebar",
+      "url": "new-motorcycle",
+      "role": [
+        "admin"
+      ]
+    },
+    {
+      "name": "Edit Motorcycle",
+      "icon": "ti-layout-sidebar",
+      "url": "motorcycle/edit",
+      "role": [
+        "admin"
+      ]
+    },
+    {
+      "name": "Articles",
+      "icon": "ti-layout-sidebar",
+      "url": "articles",
+      "role": [
+        "admin",
+        "writer",
+        "client"
+      ]
+    },
+    {
+      "name": "Admin Articles",
+      "icon": "ti-layout-sidebar",
+      "url": "admin/articles",
+      "role": [
+        "admin",
+        "writer"
+      ]
+    },
+    {
+      "name": "Users",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "url": "laravel/user-management",
+      "role": [
+        "admin"
+      ]
+    },
+    {
+      "name": "Layout Container",
+      "icon": "ti-layout-sidebar",
+      "url": "layouts/container"
+    },
+    {
+      "name": "Layout Blank",
+      "icon": "ti-layout-sidebar",
+      "url": "layouts/blank"
+    }
+  ]
+}
