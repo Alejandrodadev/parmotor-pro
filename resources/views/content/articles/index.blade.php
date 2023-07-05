@@ -1,7 +1,7 @@
 @extends('layouts/layoutMaster')
 
 @section('title', 'articles')
-
++
 @section('content')
   @if (session('success') )
     <div class="alert alert-danger">{{ session('success') }}</div>
